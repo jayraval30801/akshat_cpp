@@ -1,0 +1,13 @@
+If Methods In A Class Are Private and protected then cannot Access using object.
+
+=> friend function
+=> friend class
+    => class private members accessible using friend function
+
+
+=> Using Friend Function Create a  program : 
+        Class Shape : friend => void area => void perimeter
+        Child class => rectangle : private : int w,h => 
+        Child class => Square : private : int l
+        Child class => triengle : private : int b,h
+        
