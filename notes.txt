@@ -10,4 +10,19 @@ If Methods In A Class Are Private and protected then cannot Access using object.
         Child class => rectangle : private : int w,h => 
         Child class => Square : private : int l
         Child class => triengle : private : int b,h
-        
+1)Opps Str 
+    Object , Method , Class , Access Specifier
+2)Constructor :
+    Default Cons , Parameterized Con , Copy Constructor
+3)inheritence : 
+    Types
+4)virtual : 
+    Function
+5)Friend Function , Class : 
+6)Polymorphism : 
+    Overloading , Overriding
+7)Encapsulation : 
+    Getter & Setter
+8)Template Function , Class : 
+    Multiple Class, Single Class
+     
