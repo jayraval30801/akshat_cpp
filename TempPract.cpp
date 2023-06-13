@@ -28,3 +28,9 @@ int main()
     obj.insert();
     obj.display();
 }
+/*
+Create Template Function for Array Finding Maximum Number/Character from Array
+Create template Class with Functionality of Insert Patient , Display Patient,
+    Display Patients By PatientId , 
+
+*/
