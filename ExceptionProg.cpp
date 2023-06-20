@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
     int a,b,p;
+
     try
     {
     cout<<"Enter a";
@@ -28,4 +29,5 @@ int main()
 /*
 Can not divide by 0 
 
+    Multiple Catches => try => multiple catch 
 */
