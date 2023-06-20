@@ -25,4 +25,13 @@ If Methods In A Class Are Private and protected then cannot Access using object.
     Getter & Setter
 8)Template Function , Class : 
     Multiple Class, Single Class
-     
+9) Exception Handling : 
+    Exception : Program Value 
+        Array => size : 10 => for(i=0;i<20;i++)
+        division => a/b => 12/0 => infinite 
+    => Exception Arithmetic Exception
+    3 thing : 
+        1) try : block 
+        2) catch : method => Exception Classes  (Arithmetic Exception , Exception , ArrayIndexOutOfBound Exception)
+        3) throw : custom exception call  (age>18)
+
