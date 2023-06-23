@@ -34,4 +34,6 @@ If Methods In A Class Are Private and protected then cannot Access using object.
         1) try : block 
         2) catch : method => Exception Classes  (Arithmetic Exception , Exception , ArrayIndexOutOfBound Exception)
         3) throw : custom exception call  (age>18)
+==============================================================================
+
 
