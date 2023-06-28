@@ -36,4 +36,11 @@ throw keyword used
             contructor Call    
 
 
+    Array : Size  => More element than size
+            class Excep => Method class
+    String : 
+            consonents => class Exceptio1 => method call
+            vowels -> class Except2 => method call
+            
+
 */
